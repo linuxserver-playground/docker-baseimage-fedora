@@ -13,6 +13,11 @@ release:
   branch: '44'
   tag: '44'
   channel: stable
+  tags:
+  - tag: '44'
+    description: Fedora 44.
+  - tag: '43'
+    description: Fedora 43.
 
 build:
   base: fedora
